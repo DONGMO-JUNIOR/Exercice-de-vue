@@ -1,5 +1,4 @@
 <template>
-
   <div>
     <!--Exercice3-->
       <button @click="activateTab = 'TabA'">Tab A</button>
